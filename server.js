@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 const { animals } = require('./data/animals');
+const PORT = process.env.PORT || 3001;
+
 
 function filterByQuery(query, animalsArray) {
   let personalityTraitsArray = [];
