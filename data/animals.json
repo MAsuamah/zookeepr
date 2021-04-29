@@ -144,6 +144,19 @@
         "anxious"
       ],
       "id": "14"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
+    },
+    {
+      "name": "Cat Daddy",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "16"
     }
   ]
 }
