@@ -108,6 +108,15 @@
         "zany"
       ],
       "id": "10"
+    },
+    {
+      "name": "Cat Daddy",
+      "species": "Giraffe",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "11"
     }
   ]
 }
