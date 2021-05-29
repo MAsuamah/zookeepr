@@ -4,7 +4,7 @@ A web app that carries a catalogue of animals and local zoo keepers.
 
 
 ## How to Use
-* You can view animzals, view zookeepers and add to our catologue.
+* You can view animals, view zookeepers and add to our catologue.
 * The home page displays the option to add zookeepers and/or animals plus their charateristics.
 
 ![screencapture-myzookpr-herokuapp-2021-05-06-14_52_35](https://user-images.githubusercontent.com/77217156/117350688-d9e77580-ae7a-11eb-8d59-6f5df8b24db7.png)
