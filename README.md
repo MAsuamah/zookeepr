@@ -23,7 +23,7 @@ To add a zookeeper enter the zookeeper's name, age, and favourite animal. After 
 To view animals click the view animals button. This will feature any animals already in our catalogue as well as any animals you add.
 
 #### Viewing Zookeepers
-To view zookeepers click the view zookeepers button. This will feature any zookeepers already in our catalogue as well as any zookeepers you add. An example of the catalogue looks is pictured below.
+To view zookeepers click the view zookeepers button. This will feature any zookeepers already in our catalogue as well as any zookeepers you add. An example of how the catalogue looks is pictured below.
 
 ![screencapture-myzookpr-herokuapp-zookeepers-2021-05-06-14_53_01](https://user-images.githubusercontent.com/77217156/117350693-db18a280-ae7a-11eb-8323-9e2847289e42.png)
 
